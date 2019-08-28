@@ -14,6 +14,7 @@ generateY <- function(X, beta, sigma, seed = 5832652){
 # X - design matrix
 # Y -response
 calculateBeta <- function(X, Y){
+  beta_LS=solve(t(X)%*%X)%*%t(X)%*%Y
   # Calculate beta_LS
   
   # Return beta
