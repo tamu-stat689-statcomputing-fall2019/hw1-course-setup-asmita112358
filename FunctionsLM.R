@@ -1,3 +1,4 @@
+#Rachael Shudde helped me learn how to use git and push in this example.
 # Generate n-dimensional response Y that follows linear regression model 
 #Y = Xbeta + epsilon, where epsilon is normal zero with variance sigma^2 
 #independent across samples. Seed should be set at the beginning of the function
