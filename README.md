@@ -1,6 +1,6 @@
 # Assignment 1 - Getting started
 
-Student: *Last name*, *First name*
+Student:Roy, Asmita
 
 Potentially helpful resources:
 
